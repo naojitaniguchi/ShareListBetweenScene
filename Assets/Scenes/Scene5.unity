@@ -643,10 +643,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1415047800}
-  selectedCommands:
-  - {fileID: 1415047808}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 1415047798}
   - {fileID: 1415047797}
@@ -715,7 +713,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!114 &1415047805
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
